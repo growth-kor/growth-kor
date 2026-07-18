@@ -3,10 +3,6 @@
 매일 조금씩 성장하며, 아이디어를 작동하는 웹 애플리케이션으로 만들어내는 프론트엔드 개발자 **growth-kor**입니다.  
 프로젝트 이름을 클릭하면 코드를 볼 수 있고, **[🌐 바로가기]**를 누르면 웹사이트를 직접 체험해 보실 수 있습니다!
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=growth-kor&color=teal&style=flat-square&label=👁️+PROFILE+VIEWS" alt="growth-kor" />
-</p>
-
 ---
 
 ### 🛠️ Tech Stacks
