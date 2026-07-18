@@ -25,17 +25,17 @@
 
 > 이 프로젝트들은 GitHub Pages가 활성화되어 있어 웹 브라우저에서 바로 사용해 보실 수 있습니다.
 
-#### 🤖 [anino](https://github.com/growth-kor/anino) ｜ [🌐 라이브 데모 바로가기](https://growth-kor.github.io/anino/)
+#### 🤖 [anino](https://github.com/growth-kor/anino) ｜ [🌐 바로가기](https://growth-kor.github.io/anino/)
 * **🛠️ 기술 스택:** `React` `TypeScript` `Vite`
 * **📝 한줄 설명:** 아두이노(Arduino) 인터랙티브 학습 웹 애플리케이션입니다. 
 * **💡 주요 기능:** 레벨별/일차별 코스 학습 및 가상 하드웨어 시뮬레이션 엔진이 설계되어 있습니다.
 
-#### 📝 [CS_helper](https://github.com/growth-kor/CS_helper) ｜ [🌐 라이브 데모 바로가기](https://growth-kor.github.io/CS_helper/)
+#### 📝 [CS_helper](https://github.com/growth-kor/CS_helper) ｜ [🌐 바로가기](https://growth-kor.github.io/CS_helper/)
 * **🛠️ 기술 스택:** `TypeScript` `Supabase`
 * **📝 한줄 설명:** 컴퓨터활용능력 자격증 CBT 시험 대비 및 엑셀 실무 팁 학습 앱입니다. 
 * **💡 주요 기능:** 모의고사 풀기, 엑셀 시뮬레이터 기능, 오답 노트, 그리고 Supabase를 활용한 학습 통계 기능이 내장되어 있습니다.
 
-#### 📚 [digital-shelf](https://github.com/growth-kor/digital-shelf) ｜ [🌐 라이브 데모 바로가기](https://growth-kor.github.io/digital-shelf/)
+#### 📚 [digital-shelf](https://github.com/growth-kor/digital-shelf) ｜ [🌐 바로가기](https://growth-kor.github.io/digital-shelf/)
 * **🛠️ 기술 스택:** `React` `JavaScript` `Vite` `Firebase`
 * **📝 한줄 설명:** 3D 입체 페이지 넘김 효과(Flipbook)를 지원하는 개인용 PDF 전자서재 및 리더 애플리케이션입니다.
 * **💡 주요 기능:** 
@@ -45,12 +45,12 @@
   * **직관적인 책장 관리:** 클릭 한 번으로 책장에서 책을 쉽게 빼내고 저장 공간을 반환할 수 있는 제거 기능 제공
   * **세련된 감성의 디자인:** 네온 효과를 배제한 차분한 크림/베이지 톤의 세련된 라이트 모드 디자인과 모던한 폰트 조합, 편리한 페이지 이동용 툴바 탑재
 
-#### 🎵 [gozogo](https://github.com/growth-kor/gozogo) ｜ [🌐 라이브 데모 바로가기](https://growth-kor.github.io/gozogo/)
+#### 🎵 [gozogo](https://github.com/growth-kor/gozogo) ｜ [🌐 바로가기](https://growth-kor.github.io/gozogo/)
 * **🛠️ 기술 스택:** `JavaScript` `Web Audio API`
 * **📝 한줄 설명:** 시각 필터 및 음향 효과 기능이 포함된 디지털 시계 & 엠비언트 백그라운드 앱입니다. 
 * **💡 주요 기능:** 파일 드래그 앤 드롭을 통한 이미지/비디오 배경 설정, 블러/밝기 조절, Web Audio API를 활용한 리버브(Reverb) 음악 감상 등이 가능합니다.
 
-#### ⏱️ [yemodoro](https://github.com/growth-kor/yemodoro) ｜ [🌐 라이브 데모 바로가기](https://growth-kor.github.io/yemodoro/)
+#### ⏱️ [yemodoro](https://github.com/growth-kor/yemodoro) ｜ [🌐 바로가기](https://growth-kor.github.io/yemodoro/)
 * **🛠️ 기술 스택:** `JavaScript` `Firebase` `HTML5 Canvas`
 * **📝 한줄 설명:** Firebase Firestore 데이터베이스와 연동되는 사용자 맞춤형 뽀모도로(Pomodoro) 타이머 & 학습 플래너입니다. 
 * **💡 주요 기능:** HTML5 Canvas 기반의 진행률 링 타이머, 공부 기록용 달력, 카테고리 설정, 구글 로그인 기능이 적용되어 있습니다.
