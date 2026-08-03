@@ -17,7 +17,7 @@
 
 ---
 
-### 💻 🌐 GitHub Pages 활성화 저장소 (5개)
+### 💻 🌐 GitHub Pages 활성화 저장소 (6개)
 
 > 이 프로젝트들은 GitHub Pages가 활성화되어 있어 웹 브라우저에서 바로 사용해 보실 수 있습니다.
 
@@ -30,6 +30,16 @@
 * **🛠️ 기술 스택:** `TypeScript` `Supabase`
 * **📝 한줄 설명:** 컴퓨터활용능력 자격증 CBT 시험 대비 및 엑셀 실무 팁 학습 앱입니다. 
 * **💡 주요 기능:** 모의고사 풀기, 엑셀 시뮬레이터 기능, 오답 노트, 그리고 Supabase를 활용한 학습 통계 기능이 내장되어 있습니다.
+
+#### 🗓️ [course_registration](https://github.com/growth-kor/course_registration) ｜ [🌐 바로가기](https://growth-kor.github.io/course_registration/)
+* **🛠️ 기술 스택:** `React` `JavaScript` `Vite` `Firebase`
+* **📝 한줄 설명:** 1시간 그리드 UI와 10분 단위 정밀 기입을 지원하는 투박하고 실용적인 주간 고정 일정 및 자습 관리 플래너입니다.
+* **💡 주요 기능:** 
+  * **정밀한 10분 단위 일정 배치:** 1시간 간격 그리드 라인 시각화와 10분 단위(09:10~10:40 등) 블록 배치를 결합한 효율적인 시간 관리
+  * **Brutalist 디자인 시스템:** 과도한 AI 스타일(네온/글래스모피즘)과 에브리타임 스타일을 배제하고, 아날로그 그리드 서식지(Grid Paper)와 형광펜 하이라이터 색상을 적용한 직관적이고 깔끔한 UI
+  * **Firebase Spark Cloud Sync & Local First:** 비로그인 상태에서는 LocalStorage로, 구글 로그인 시 Firebase Firestore와 기기 간 주간 시간표 데이터 영구 동기화
+  * **자습 세부 체크리스트 (Subtasks):** 시간 블록별 하위 달성 과제 등록 및 완료 상태 관리 (`☑ 2/3 완료`)
+  * **주간 시간 분석 리포트 & 데이터 백업:** 순수 자습 시간 수치화 및 카테고리별 비중 바 그래프 제공, JSON 파일 백업/복원 기능 탑재
 
 #### 📚 [digital-shelf](https://github.com/growth-kor/digital-shelf) ｜ [🌐 바로가기](https://growth-kor.github.io/digital-shelf/)
 * **🛠️ 기술 스택:** `React` `JavaScript` `Vite` `Firebase`
