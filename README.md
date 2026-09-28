@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white" alt="Supabase"/>
 </p>
@@ -20,7 +21,12 @@
 
 ### 💻 🌐 Live Projects (GitHub Pages)
 
-> 아래 6개의 프로젝트는 GitHub Pages를 통해 배포되어 있어, 별도의 설치 없이 즉시 사용해 보실 수 있습니다.
+> 아래 7개의 프로젝트는 GitHub Pages를 통해 배포되어 있어, 별도의 설치 없이 즉시 사용해 보실 수 있습니다.
+
+#### 🪐 [CosmoSpace](https://github.com/growth-kor/CosmoSpace) ｜ [🌐 바로가기](https://growth-kor.github.io/CosmoSpace/)
+* **🛠️ 기술 스택:** `JavaScript` `Three.js` `WebGL` `Web Audio API`
+* **📝 한줄 소개:** 수천 장의 로컬 사진 폴더를 웹 브라우저 안에서 멈춤 없이 3D 우주 은하계 행성계로 펼쳐내는 차세대 인터랙티브 포토 스페이스입니다.
+* **💡 주요 특징:** 피보나치 구면 알고리즘 기반의 겹침 0% 3D 폴더 행성계 배치, 100% 클라이언트 인메모리 고속 압축으로 VRAM 누수 없이 부드러운 60fps 탐색을 지원하며, 3대 차원 레이아웃(Galaxy/Sphere/Grid) 실시간 전환, WASD 심우주 자유 비행, 원본 LRU-10 캐시 및 고조 사토루 영역전개 사운드 시스템을 갖추고 있습니다.
 
 #### 🗓️ [course_registration](https://github.com/growth-kor/course_registration) ｜ [🌐 바로가기](https://growth-kor.github.io/course_registration/)
 * **🛠️ 기술 스택:** `React` `JavaScript` `Vite` `Firebase`
