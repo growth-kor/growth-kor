@@ -21,7 +21,7 @@
 
 ### 💻 🌐 Live Projects (GitHub Pages)
 
-> 아래 8개의 프로젝트는 GitHub Pages를 통해 배포되어 있어, 별도의 설치 없이 즉시 사용해 보실 수 있습니다.
+> 아래 9개의 프로젝트는 GitHub Pages를 통해 배포되어 있어, 별도의 설치 없이 즉시 사용해 보실 수 있습니다.
 
 #### 🤖 [anino](https://github.com/growth-kor/anino) ｜ [🌐 바로가기](https://growth-kor.github.io/anino/)
 * **🛠️ 기술 스택:** `React` `TypeScript` `Vite`
@@ -57,6 +57,11 @@
 * **🛠️ 기술 스택:** `JavaScript` `Web Audio API`
 * **📝 한줄 소개:** 시각적 필터와 음향 효과가 결합된 엠비언트 백그라운드 & 디지털 시계 앱입니다. 
 * **💡 주요 특징:** 파일 드래그 앤 드롭으로 배경 이미지/비디오를 커스텀할 수 있으며, 블러/밝기 조절 기능과 Web Audio API를 활용한 리버브(Reverb) 음악 감상 기능을 제공합니다.
+
+#### 🎧 [travis-scott-my-eyes](https://github.com/growth-kor/travis-scott-my-eyes) ｜ [🌐 바로가기](https://growth-kor.github.io/travis-scott-my-eyes/)
+* **🛠️ 기술 스택:** `JavaScript` `HTML5` `CSS3` `Web Audio API` `Canvas`
+* **📝 한줄 소개:** 트래비스 스캇(Travis Scott)의 곡 'MY EYES' 비트드롭 구간을 위한 미니멀 오디오 루프 플레이어입니다.
+* **💡 주요 특징:** 음정 왜곡 없는 무손실 가변 배속(0.5x~2.0x) 정밀 제어, 단축키 기반 직관적 구간 루프 제어, 캔버스 기반 반응형 앰비언트 주파수 스펙트럼 비주얼라이저, 그리고 무한 마키 티커 인터페이스를 지원합니다.
 
 #### ⏱️ [yemodoro](https://github.com/growth-kor/yemodoro) ｜ [🌐 바로가기](https://growth-kor.github.io/yemodoro/)
 * **🛠️ 기술 스택:** `JavaScript` `Firebase` `HTML5 Canvas`
